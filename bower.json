@@ -1,0 +1,17 @@
+{
+  "name": "bootstrapgreniyorum",
+  "homepage": "https://github.com/muhammedaltundag/bootstrap-greniyorum",
+  "authors": [
+    "Muhammed Ali <muhammed.altundag@orgino.com.tr>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
